@@ -10,7 +10,6 @@
 // Добавьте сюда заголовочные файлы для предварительной компиляции
 
 #endif //PCH_H
-#include "pch.h"
 #include <iostream>
 #include <string>
 ConvertFromTen(int num, int base)
