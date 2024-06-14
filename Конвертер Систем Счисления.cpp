@@ -1,7 +1,5 @@
 ﻿#include "pch.h"
 
-using namespace std;
-
 string ConvertFromTen(int num, int base)
 {
     string chars = "0123456789ABCDEFG";
