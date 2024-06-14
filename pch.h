@@ -7,9 +7,9 @@
 #ifndef PCH_H
 #define PCH_H
 
-// Добавьте сюда заголовочные файлы для предварительной компиляции
-
-#endif //PCH_H
 #include <iostream>
 #include <string>
-ConvertFromTen(int num, int base)
+using namespace std;
+ConvertFromTen();
+
+#endif //PCH_H
